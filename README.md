@@ -1,4 +1,5 @@
-# How to create a Free GitHub Pages HTTPS site: [https://my-demo-site.github.io](https://my-demo-site.github.io)
+# How to create a Free GitHub Pages HTTPS site: 
+# [https://my-demo-site.github.io](https://my-demo-site.github.io)
 
 <hr>
 
@@ -47,7 +48,7 @@ This will become the github.io **subdomain** [https://my-demo-site.github.io/](h
 
 <hr>
 
-## Type the EXACT REPO.github.io name
+## Type the EXACT [subdomain].github.io name
 
 ![](https://i.imgur.com/d6YVTna.png)
 
