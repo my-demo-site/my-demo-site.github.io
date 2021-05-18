@@ -56,3 +56,7 @@ This will become the github.io **subdomain** https://my-demo-site.github.io
 ## Your HTTPS site will be published
 
 * It can take a couple of minutes for Github Pages to publish your updates
+* use the standard README.md 
+* or publish your own ``index.html``
+* Every Commit will publish your site (may take a couple of minutes)
+* No need for complex Git statements, just drag-drop files on your Repo webpage
